@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 class Program{
     static void Main(){
         string[,] users = {{"admin", "admin123"} , {"manager","manager123"}};
