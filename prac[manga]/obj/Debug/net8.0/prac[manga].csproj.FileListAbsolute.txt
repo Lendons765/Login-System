@@ -1,0 +1,15 @@
+C:\Users\Lendon Manga\prac\Login-System\prac[manga]\obj\Debug\net8.0\prac[manga].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lendon Manga\prac\Login-System\prac[manga]\obj\Debug\net8.0\prac[manga].AssemblyInfoInputs.cache
+C:\Users\Lendon Manga\prac\Login-System\prac[manga]\obj\Debug\net8.0\prac[manga].AssemblyInfo.cs
+C:\Users\Lendon Manga\prac\Login-System\prac[manga]\obj\Debug\net8.0\prac[manga].csproj.CoreCompileInputs.cache
+C:\Users\Lendon Manga\prac\Login-System\prac[manga]\obj\Debug\net8.0\prac[manga].sourcelink.json
+C:\Users\Lendon Manga\prac\Login-System\prac[manga]\bin\Debug\net8.0\prac[manga].exe
+C:\Users\Lendon Manga\prac\Login-System\prac[manga]\bin\Debug\net8.0\prac[manga].deps.json
+C:\Users\Lendon Manga\prac\Login-System\prac[manga]\bin\Debug\net8.0\prac[manga].runtimeconfig.json
+C:\Users\Lendon Manga\prac\Login-System\prac[manga]\bin\Debug\net8.0\prac[manga].dll
+C:\Users\Lendon Manga\prac\Login-System\prac[manga]\bin\Debug\net8.0\prac[manga].pdb
+C:\Users\Lendon Manga\prac\Login-System\prac[manga]\obj\Debug\net8.0\prac[manga].dll
+C:\Users\Lendon Manga\prac\Login-System\prac[manga]\obj\Debug\net8.0\refint\prac[manga].dll
+C:\Users\Lendon Manga\prac\Login-System\prac[manga]\obj\Debug\net8.0\prac[manga].pdb
+C:\Users\Lendon Manga\prac\Login-System\prac[manga]\obj\Debug\net8.0\prac[manga].genruntimeconfig.cache
+C:\Users\Lendon Manga\prac\Login-System\prac[manga]\obj\Debug\net8.0\ref\prac[manga].dll

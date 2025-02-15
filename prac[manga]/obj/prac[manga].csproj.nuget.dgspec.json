@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lendon Manga\\prac\\prac[manga]\\prac[manga].csproj": {}
+    "C:\\Users\\Lendon Manga\\prac\\Login-System\\prac[manga]\\prac[manga].csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lendon Manga\\prac\\prac[manga]\\prac[manga].csproj": {
+    "C:\\Users\\Lendon Manga\\prac\\Login-System\\prac[manga]\\prac[manga].csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lendon Manga\\prac\\prac[manga]\\prac[manga].csproj",
+        "projectUniqueName": "C:\\Users\\Lendon Manga\\prac\\Login-System\\prac[manga]\\prac[manga].csproj",
         "projectName": "prac[manga]",
-        "projectPath": "C:\\Users\\Lendon Manga\\prac\\prac[manga]\\prac[manga].csproj",
+        "projectPath": "C:\\Users\\Lendon Manga\\prac\\Login-System\\prac[manga]\\prac[manga].csproj",
         "packagesPath": "C:\\Users\\Lendon Manga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lendon Manga\\prac\\prac[manga]\\obj\\",
+        "outputPath": "C:\\Users\\Lendon Manga\\prac\\Login-System\\prac[manga]\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lendon Manga\\AppData\\Roaming\\NuGet\\NuGet.Config"

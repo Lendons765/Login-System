@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("prac[manga]")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b92a77a6ea9d97b16c8b7bba950c2e9e1e4d853")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46c2be81ef59b22b597e697052e79671539a9822")]
 [assembly: System.Reflection.AssemblyProductAttribute("prac[manga]")]
 [assembly: System.Reflection.AssemblyTitleAttribute("prac[manga]")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
